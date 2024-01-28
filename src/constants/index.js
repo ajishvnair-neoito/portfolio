@@ -3,7 +3,6 @@ import {
   car,
   contact,
   css,
-  estate,
   express,
   git,
   github,
@@ -22,9 +21,10 @@ import {
   snapgram,
   summiz,
   tailwindcss,
-  threads,
   typescript,
-  aasani
+  aasani,
+  ufe,
+  cr,
 } from "../assets/icons";
 
 export const skills = [
@@ -162,21 +162,21 @@ export const projects = [
     iconUrl: aasani,
     theme: "btn-back-blue",
     name: "FinTech product",
-    description: "Streamline your business's accounting processes with our AI-powered tool, making it faster and easier than ever before. Say goodbye to hassles and hello to efficiency as you manage your finances effortlessly.",
+    description: "Revolutionize your business's financial management with our AI-powered accounting tool. As the technical team lead on this project, we've crafted a solution that makes accounting easier and faster for businesses, enabling seamless operations and hassle-free management of finances.",
     link: "https://www.aasanibooks.com/",
   },
   {
-    iconUrl: summiz,
+    iconUrl: ufe,
     theme: "btn-back-yellow",
-    name: "An AI Article Summarizer Website",
-    description: "Summarize Articles with OpenAI GPT-4. Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.",
-    link: "https://github.com/emredkyc/ai_summarizer",
+    name: "(UFE)Shopify AI Plugin",
+    description: "As a full-stack developer on this project, I've engineered an ultra-lightweight yet power-packed Upsell App that ignites your store's performance without ever compromising speed. With seamless integration and optimized functionality, your store's growth trajectory is set for liftoff.",
+    link: "https://helixo.co/upsell-funnel-engine/",
   },
   {
-    iconUrl: car,
-    theme: "btn-back-blue",
-    name: "A Car Showcase Website",
-    description: "Build and Deploy a Modern Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS",
+    iconUrl: cr,
+    theme: "btn-back-pink",
+    name: "Currency Converter (Shopify)",
+    description: "As a full-stack developer driving this project forward, I've implemented cutting-edge Instant Currency Converter technology, empowering businesses to effortlessly expand their global reach by seamlessly converting to over 160 currencies. Experience heightened international sales with our intuitive solution tailored for success.",
     link: "https://github.com/emredkyc/car_showcase",
   },
   {
@@ -185,6 +185,6 @@ export const projects = [
     name: "Personal portfolio website.",
     description:
       "Personal portfolio website.",
-    link: "https://emredkyc.vercel.app",
+    link: "https://ajishvnair.netlify.app/"
   },
 ];

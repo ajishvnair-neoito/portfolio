@@ -27,6 +27,8 @@ import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import aasani from './aasani.svg'
+import ufe from './ufe.svg'
+import cr from './cr.webp'
 
 export {
     css,
@@ -58,4 +60,6 @@ export {
     soundon,
     soundoff,
     aasani,
+    ufe,
+    cr
 }
